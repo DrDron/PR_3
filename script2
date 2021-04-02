@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Версия ядра"
+uname -r
+echo "ОС"
+uname -o
